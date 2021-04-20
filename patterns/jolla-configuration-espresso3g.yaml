@@ -1,0 +1,6 @@
+Description: Pattern with packages for espresso3g configurations
+Name: jolla-configuration-espresso3g
+Requires:
+- patterns-sailfish-device-configuration-espresso3g
+
+Summary: Jolla Configuration espresso3g
